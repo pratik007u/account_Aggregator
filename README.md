@@ -1,1 +1,3 @@
-# account_Aggregator
+# AccountAggregator
+
+The Account Aggregator (AA) serves as an intermediary between a User or a FIU and Financial Information Providers (such as banks, securities, insurance, pensions and other account/finance management service providers). Application Programming iterfaces enable AA to manage the lifecycle of consent artefacts through the Consent Flow API. It also mediates the secure flow of financial information from FIPs to FIUs based on explicit user consent using Data Flow API. AA also exposes Notification method so that FIU and FIP can notify it about the events generated during consent flow and data flow.
